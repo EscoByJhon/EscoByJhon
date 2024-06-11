@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+  jhon
+======================
+Sueldo Bruto: $2500
+Sueldo Normal: $2500
+Ganancia por Horas Extras: $0
+Descuento AFP: $250
+Descuento FONASA: $175
+======================
+Sueldo Neto: $2075
